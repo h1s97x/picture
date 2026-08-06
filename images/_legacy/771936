@@ -1,0 +1,22 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link id="J_logo_ico" type="image/x-icon" rel="shortcut icon" href="//storagecdn.xuetangx.com/public_assets/xuetangx/examSystem/logo.ico" sizes="64x64"><title>考试系统</title><link rel="stylesheet" href="//at.alicdn.com/t/c/font_956123_0f83zxvvul5t.css"><script src="//at.alicdn.com/t/c/font_956123_0f83zxvvul5t.js"></script><link href="https://fe-static-yuketang.yuketang.cn/fe/static/exam/1.0.158/fe-examxtassets/styles.6c8dc631370234698461.css" rel="stylesheet"><link href="https://fe-static-yuketang.yuketang.cn/fe/static/exam/1.0.158/fe-examxtassets/app.3d169683b1fc77709f7d.css" rel="stylesheet"></head><body><div id="app"></div><script>eval(function(e,n,t,r,o,i){if(o=function(e){return(e<25?"":o(parseInt(e/25)))+((e%=25)>35?String.fromCharCode(e+29):e.toString(36))},!"".replace(/^/,String)){for(;t--;)i[o(t)]=r[t]||o(t);r=[function(e){return i[e]}],o=function(){return"\\w+"},t=1}for(;t--;)r[t]&&(e=e.replace(new RegExp("\\b"+o(t)+"\\b","g"),r[t]));return e}('5 k(){a{4 e=0.2;0.2=5(9,3){4 n=b d("c");n.8=3,7.6(n),e.l(m,o)},0.2("j",1)}g(e){i.h("f")}}',0,25,"sessionStorage||setItem|s|var|function|dispatchEvent|window|newValue|t|try|new|setItemEvent|Event||检测到切屏被屏蔽|catch|log|console|hasBlocked|getEventListeners|apply|this||arguments".split("|"),0,{}))</script><script type="text/x-mathjax-config">window.MathJax.Hub.Config({
+				showProcessingMessages: false, //关闭js加载过程信息
+				messageStyle: "none", //不显示信息
+				jax: ["input/TeX", "output/HTML-CSS"],
+				showMathMenu: false, //关闭右击菜单显示
+				tex2jax: {
+				inlineMath: [
+					['$','$'],
+					["\\(","\\)"],
+					['[mathjaxinline]','[/mathjaxinline]']
+				],
+				displayMath: [
+					['$$','$$'], 
+					["\\[","\\]"],
+					['[mathjax]','[/mathjax]']
+				],
+				processEscapes: true
+				},
+				"HTML-CSS": { availableFonts: ["TeX"] , linebreaks: { automatic: true } }, //公式换行
+         		SVG: { linebreaks: { automatic: true } }, //公式换行
+				
+			});</script><script type="text/javascript" src="https://fe-static-yuketang.yuketang.cn/fe/static/js/mathjax/MathJax.js?config=TeX-MML-AM_HTMLorMML-full"></script><script type="text/javascript" src="https://web-stat.jiguang.cn/web-janalytics/scripts/janalytics-web.min.js"></script><script>window.JAnalyticsInterface&&window.JAnalyticsInterface.init({appkey:"d651262356d93f6497b466bc",debugMode:!1,channel:"examweb",loc:!1,singlePage:!0})</script><script>var _mtac={performanceMonitor:1,senseQuery:1};!function(){var t=document.createElement("script");t.src="https://pingjs.qq.com/h5/stats.js?v2.0.4",t.setAttribute("name","MTAH5"),t.setAttribute("sid","500535776"),t.setAttribute("cid","500613279");var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}()</script><script src="https://fe-static-yuketang.yuketang.cn/fe/static/exam/1.0.158/fe-examxtassets/manifest_e586522e61eb69b47524.js"></script><script src="https://fe-static-yuketang.yuketang.cn/fe/static/exam/1.0.158/fe-examxtassets/10_f1b0f2bff16f175e3760.js"></script><script src="https://fe-static-yuketang.yuketang.cn/fe/static/exam/1.0.158/fe-examxtassets/11_7c07539b25fc01c2f704.js"></script><script src="https://fe-static-yuketang.yuketang.cn/fe/static/exam/1.0.158/fe-examxtassets/30_befb3d59e7e5cd803aa9.js"></script></body></html>

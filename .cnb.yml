@@ -1,6 +1,14 @@
 # Git Sync 流水线：每次 push 到 main 分支后，自动将代码同步到 GitHub
 main:
   push:
+    - name: validate-image-naming
+      stages:
+        - name: check image naming
+          image: bash:5.2
+          script: |
+            set -e
+            chmod +x scripts/validate-images.sh
+            scripts/validate-images.sh
     - name: sync-to-github
       # 敏感信息（GITHUB_USERNAME / GITHUB_TOKEN）存放在密钥仓库 secret-env，通过 imports 引用
       imports:
